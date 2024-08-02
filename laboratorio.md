@@ -27,3 +27,8 @@ Digest: sha256:fea84f3a3b72c41efe7fc3b07ae209c6856b852b942c05fa88b747b74f70e711
 Status: Downloaded newer image for python:3.9
 docker.io/library/python:3.9
 @gokev06 ➜ /workspaces/labs-docker-dev (main) $ 
+
+## Ejecutar contenedor
+
+@gokev06 ➜ /workspaces/labs-docker-dev (main) $ docker run -it ubuntu bash
+root@424b53bf064a:/#
